@@ -802,7 +802,7 @@ footer { background: var(--espresso); padding: 2.5rem 3.5rem; position: relative
   .hero { grid-template-columns: 1fr; gap: 2rem; padding: 5.5rem 2rem 2rem; }
   .intro-hero { grid-template-columns: 1fr; min-height: 0; }
   .intro-hero-text { padding: 6.5rem 2rem 2.5rem; }
-  .intro-hero-photo { min-height: 380px; order: -1; }
+  .intro-hero-photo { min-height: 380px; }
   .about-grid { grid-template-columns: 1fr; }
   .dev-grid { grid-template-columns: repeat(2, 1fr); }
   .section-inner { padding: 2.5rem 2rem; }
