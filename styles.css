@@ -818,7 +818,7 @@ footer { background: var(--espresso); padding: 2.5rem 3.5rem; position: relative
 }
 
 @media (max-width: 768px) {
-  nav { padding: 0.85rem 1.1rem; flex-wrap: wrap; }
+  nav { padding: 0.85rem 1.1rem; flex-wrap: wrap; justify-content: center; }
   .nav-brand-name { font-size: 1.05rem; }
   .nav-brand-sub { font-size: 0.5rem; }
   .nav-links { gap: 0.25rem; order: 3; width: 100%; justify-content: center; margin-top: 0.6rem; }
